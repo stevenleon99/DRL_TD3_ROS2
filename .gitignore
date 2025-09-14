@@ -3,6 +3,6 @@ build/
 DRL_robot_navigation_ros2/
 install/
 log/
-pytorch_model/
+pytorch_models/
 results/
 
